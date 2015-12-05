@@ -1,3 +1,4 @@
 version=1.0
-motd=hello world
 url=null
+isDirectLink=false
+changelog=Testing compatability
